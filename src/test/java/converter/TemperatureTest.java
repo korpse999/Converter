@@ -1,7 +1,7 @@
 /**
  * 
  */
-package converter2;
+package converter;
 
 import static org.junit.Assert.*;
 
